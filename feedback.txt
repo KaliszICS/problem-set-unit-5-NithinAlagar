@@ -1,0 +1,9 @@
+K(30%): 100
+I(30%): 96
+C(10%): 100
+A(30%): 96
+97.6%
+
+Y is not a vowel.
+Remove all punctuation not just the ones in the example.
+Great work.

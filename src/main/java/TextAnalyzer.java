@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class ProblemSet {
+public class TextAnalyzer {
 
 	public static void main(String args[]) {
         System.out.println("Welcome to the Text Scrutinizor!");
